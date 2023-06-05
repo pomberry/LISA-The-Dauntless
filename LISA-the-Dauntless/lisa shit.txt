@@ -1,0 +1,1293 @@
+pink was for sex, red for life, orange for healing, yellow for sunlight, green for nature, turquoise for magic, indigo for harmony and violet for spirit.
+
+
+AMINAH
+
+<win quotes>
+\elb Good. Now let's get moving.
+[new quote]
+\elb Not your day, huh?
+[new quote]
+\elb Nothing personal.
+</win quotes>
+<level quotes>
+ \elb It's coming back to me now...
+[new quote]
+ \elb I'm not too old yet.
+[new quote]
+ \elb All this running around must be good for me.
+</level quotes>
+<drops quotes>
+ \elb There's a use for anything.
+[new quote]
+ \elb Any good salvage?
+[new quote]
+ \elb Hope I can get some new bolts with this.
+</drops quotes>
+
+ALEX
+<win quotes>
+\elb Hmph.
+[new quote]
+\elb Truly, the allies of justice and beauty are victorious...
+[new quote]
+\elb It was unwise to fight us.
+</win quotes>
+<level quotes>
+ \elb I believe I have a new idea.
+[new quote]
+ \elb My strength grows.
+[new quote]
+ \elb Soon, I shall provide a showing...
+</level quotes>
+<drops quotes>
+ \elb Hmm.
+[new quote]
+ \elb Oh, how I wish this was not our choice of currency...
+[new quote]
+ \elb Might there be fletchery materials?
+</drops quotes>
+
+
+BENJAMIN
+
+<win quotes>
+\elb Is everyone alright?
+[new quote]
+\elb Poor guys, picked on the wrong people.
+[new quote]
+\elb I'm not a man of violence, but...
+</win quotes>
+<level quotes>
+ \elb I feel a little better. In my joints.
+[new quote]
+ \elb Oh, I just remembered something!
+[new quote]
+ \elb This reminds me of a book I read...
+</level quotes>
+<drops quotes>
+ \elb Did you find any glasses cleaner in there?
+[new quote]
+ \elb Let's not waste anything.
+[new quote]
+ \elb How are our supplies doing?
+</drops quotes>
+
+
+AJ
+
+<win quotes>
+\elb Whew!
+[new quote]
+\elb That was exhausting.
+[new quote]
+\elb Bet you didn't see that coming, huh?!
+</win quotes>
+<level quotes>
+ \elb I have something I want to try next time.
+[new quote]
+ \elb Woo, yeah!
+[new quote]
+ \elb I think I can keep doing this.
+</level quotes>
+<drops quotes>
+ \elb Is it more nudie mags...?
+[new quote]
+ \elb I guess we'll take it!
+[new quote]
+ \elb ...
+</drops quotes>
+
+
+Morelle
+
+<win quotes>
+\elb That was so scary...
+[new quote]
+\elb I really don't want to fight any more!
+[new quote]
+\elb A-are we safe now?
+</win quotes>
+<level quotes>
+ \elb I-I need to keep going somehow...
+[new quote]
+ \elb I need to stay calm...
+[new quote]
+ \elb I miss Gramma...
+</level quotes>
+<drops quotes>
+ \elb Oh... maybe this helps.
+[new quote]
+ \elb Are there any, um, magazines...?
+[new quote]
+ \elb I hope there are cat toys in there.
+</drops quotes>
+
+George
+
+<win quotes>
+\elb See? It's OK.
+[new quote]
+\elb That wasn't so bad.
+[new quote]
+\elb I'm too old for this.
+</win quotes>
+<level quotes>
+ \elb Ooh, this is tiring.
+[new quote]
+ \elb Let's try to get home soon.
+[new quote]
+ \elb *sighs*
+</level quotes>
+<drops quotes>
+ \elb Good job!
+[new quote]
+ \elb Oh, good, supplies!
+[new quote]
+ \elb We may need this soon.
+</drops quotes>
+
+
+Sunny
+
+<win quotes>
+\elb Woo yeah!
+[new quote]
+\elb Don't mess with the Owenses!
+[new quote]
+\elb Sucks that we had to fight. And you had to lose.
+</win quotes>
+<level quotes>
+ \elb Awesome!
+[new quote]
+ \elb Maybe I'll try something new!
+[new quote]
+ \elb Yeah, I'm cool!
+</level quotes>
+<drops quotes>
+ \elb Do you see anything good?
+[new quote]
+ \elb Did I miss anything?
+[new quote]
+ \elb Wonder if there's any snacks.
+</drops quotes>
+
+Niel
+
+<win quotes>
+\elb Not your lucky day. It's mine, actually.
+[new quote]
+\elb Sucks it turned out this way for you.
+[new quote]
+\elb I did what I had to do.
+</win quotes>
+<level quotes>
+ \elb Oh hey, I'm not exhausted for once.
+[new quote]
+ \elb That weird crick in my shoulder is gone!
+[new quote]
+ \elb I'll make it work.
+</level quotes>
+<drops quotes>
+ \elb Take it all.
+[new quote]
+ \elb I'd like a hot meal around now.
+[new quote]
+ \elb Let's see what we have here...
+</drops quotes>
+
+Ash
+
+<win quotes>
+\elb ...
+[new quote]
+\elb Pity you had to face me.
+[new quote]
+\elb Whatever it takes, I'll survive.
+</win quotes>
+<level quotes>
+ \elb ...
+[new quote]
+ \elb Growth isn't optional.
+[new quote]
+ \elb A new day, a new me.
+</level quotes>
+<drops quotes>
+ \elb Hope it helps us...
+[new quote]
+ \elb They won't be needing it now.
+[new quote]
+ \elb ...
+</drops quotes>
+
+
+LUPEI
+
+
+
+DICE
+
+<win quotes>
+\elb You need to learn to hedge your bets.
+[new quote]
+\elb 
+[new quote]
+\elb 
+</win quotes>
+<level quotes>
+ \elb 
+[new quote]
+ \elb 
+[new quote]
+ \elb 
+</level quotes>
+<drops quotes>
+ \elb 
+[new quote]
+ \elb 
+[new quote]
+ \elb 
+</drops quotes>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Balloon Man:
+	Consider isolating and looping the intro. Slowed down has similar vibes to like, My Lord My Wally.
+	Pitch 80% - Has a disturbing quality
+	
+
+Big Boy's Call:
+	Pitch 140% - could be something
+	Pitch 90% - Area theme in chapter 1
+	Pitch 80% - Sounds good - maybe somewhere in cult area in chp.6
+	Pitch 70% - Could be good for some ruins
+
+Beam Brain:
+	Pitch 75% - nice and sludgy
+	Pitch 60% - ambushed somewhere dark
+
+Burning Sunset
+	Pitch 145% - Could be a fight theme for someone
+	pitch 135% - same as above
+	Pitch 85% - Going for a patrol?
+	Pitch 70% - Area theme in Chapter 4? It's nice.
+	Pitch 60% - Same thing but more menacing (in a battlefield after the fight?)
+
+Blood Simmer:
+	Pitch 80% - Sounds good
+	
+
+
+Cassette
+	Pitch 55% - Creepy cave ambience
+
+
+Garbage Day
+	Pitch 130 - Pretty sure they use this for the Richie Cheasedust fight
+	Pitch 120% - Could be used for one of the "Love Fights" - potentially September and Mars
+	Pitch 115 - Has a sleepy quality , could still be good for a "Love fight"
+	Pitch 110% - Really good calming area theme, somehow even more positive and bittersweet than 
+normal
+	Pitch 90% - Very sleepy and sweet
+	Pitch 85% - Darker, makes me think of walking around a city at night. flashback?
+	Pitch 75 - Very bittersweet and determined. Chapter 2?	
+
+Give Up
+	Pitch 60 - Really pretty
+
+Go Home Johnny 
+	Pitch 135 - would be REALLY good for a fight theme without the synth voices. Ugh
+
+Goodbye Baby 
+	Pitch 130 - Very upbeat. They might have used this in Hopeful?
+
+Ode to the Oblivious
+	Pitch 60 - Could be used in a Hecate hallucination in some way. It has a feeling of "Yeah I already know what's going on here"
+
+Shardy's Shanty
+	Pitch 135 - Something in chapter 2? Aqua being determined... Sounds fucking horrible when the horns come in though
+
+Steel Mill
+	Pitch 150 - Already used in Hopeful I think but. Good sound.
+	Pitch 80 - Not as chaotic as other lower pitches but still menacing.
+
+Sunset Express 
+	Unused I think?! Probably an earlier version of Burning Sunset
+	Pitch 70 - Menacing as hell, could be a combat.
+	Pitch 60 - same
+	Pitch 50 - same
+
+The Highway King
+	Pitch 130 - Olathe Rave
+	Pitch 90 - About as low as I'd go for this song, could be good for Chapter 4 ruins of some kind
+
+
+Summer Love
+	Pitch 150 - Extremely happy?
+	Pitch 130 - Very happy but not extrmely so
+	Pitch 120 - Has a sad, menacing quality
+	Pitch 115 - Sad?
+	Pitch 110 - Why does this one sound so miserable?
+	Pitch 95% - Sleepy
+	Pitch 90 - MISERABLE? I'm gonna cry what the hell
+	Pitch 85 - This DOESN'T sound depressed, thankfully. Sounds like a nighttime scene.
+	Pitch 80 - This sounds like sheer depression
+	Pitch 75 - Sounds like the lowest it'll go without being completely miserable. Sounds sleepy.
+	Pitch 70 - Lester's Cafeteria
+	Pitch 60 - Hot damn, this one's dark
+	Pitch 50 - Shocked this hasn't been used for a mutant fight
+
+
+All Hail The Fishmen 
+	This seems extremely sensitive to pitch modification with a pretty narrow range of usable pitches.
+
+
+
+
++Oiled: Doesn't go away unless you treat it, and one of the ways to get rid of it is to be hit with either a fire ability or +burning. Applying +burning on an Oiled target does a hefty bit of bonus damage. Which is really the main point of it - use fire or +burning on an oiled person.
+If someone is already +burning and you +Oiled them, it does the bonus damage and refreshes +burning cooldown/reapplies it, but doesn't apply +Oiled. This makes +Oiled +Fire combo way less spammable but still worth using. You'll do a bunch of burst damage and then you can keep feeding the fire.
+As a weird subtle balance thing, it might make you go faster and dodge a little more but be less accurate. Slippery.
++Burning: Goes away after a few turns, does percentage damage. Same as normal. Goes away if you're hit with a water skill or +Wet. Does a bunch of bonus damage if you apply it to an +oiled target, but applying +oiled to a +burning target simply repeats the bonus damage rather than applying +oiled, which is bad news if you're trying to spam a major fire skill. It will also refresh the +burning cooldown, you're feeding the fire.
++Wet: Removes Burning and lasts a few turns. Reduces incoming fire damage by a lot, but taking fire damage removes +Wet. Makes Electric damage a lot stronger, and electric damage will not remove +Wet the same way fire damage removes +Oiled. Applying +Oiled to a +Wet target will refresh the +Wet. If someone is both +Wet and Oiled and they recieve +Burning or fire damage, this will remove both status effects, but the amount of bonus damage dealt due to applying +Burning to an +Oiled target is reduced significantly. This means you can save yourself from a nasty fire combo by making yourself wet. It's also possible that applying  +Burning  to an +Oiled +Wet target will result in everything getting canceled out and all three statuses being removed at once with some damage being done.
+
+Dumb thought that's probably too complicated to code: Being +Oiled or +Wet increases your chance to Fluster.
+Except I probably COULD do that. Keep track of everyone who CAN inflict +Flustered and which skills of theirs do it, and then make a common event that checks to see if they are +Oiled or +Wet and if so, replace their +Flustered skill with one that has a better chance to Fluster. If that doesn't work, apply an invisible status to each enemy that makes them weak to Flustered - however that runs the weird thing of "if someone is wet, A DIFFERENT PERSON has the same amount of an easier time inflicting Flustered."
+It's probably easiest and most accurate if each party member that can Fluster has a specific status effect that's THEIR instance of Flustered, and that makes the enemy immune to other types of Flustered for the duration. And when a Flusterer gets +Wet or +Oiled, it applies an invisible status to each enemy that makes them weaker to THAT instance of Flustered. And in fact, Flustered should ideally increase the targeting rate of the Flusterer a bit, which would likely require individualized Flustered effects and a weak invisible priority effect. OR using Flustering skills should automatically give you a visible, weak taunt?
+Either thing could run into an issue with the bonus lasting the entire battle even if +Wet times out. 
+
+Enemy HP Bars (Yanfly)
+
+
+
+
+#==============================================================================
+# 
+# ▼ Yanfly Engine Ace - Battle Engine Add-On: Enemy HP Bars v1.10
+# -- Last Updated: 2012.02.10
+# -- Level: Easy, Normal
+# -- Requires: YEA - Ace Battle Engine v1.00+.
+# 
+#==============================================================================
+
+$imported = {} if $imported.nil?
+$imported["YEA-EnemyHPBars"] = true
+
+#==============================================================================
+# ▼ Updates
+# =-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+# 2012.02.10 - Bug Fixed: AoE selection doesn't reveal hidden enemies.
+# 2012.02.01 - Bug Fixed: Back and front of gauge randomly don't appear.
+# 2012.01.11 - Efficiency update.
+# 2012.01.04 - Compatibility Update: Area of Effect
+# 2011.12.28 - Efficiency update.
+#            - Bug Fixed: HP bars didn't disappear after a heal.
+# 2011.12.26 - Bug Fixed: HP bars were not depleting.
+# 2011.12.23 - Efficiency update.
+# 2011.12.10 - Bug Fixed: HP bars no longer appear when dead and an AoE skill
+#              has been selected.
+# 2011.12.08 - New feature. Hide HP Bars until defeated once.
+# 2011.12.06 - Started Script and Finished.
+# 
+#==============================================================================
+# ▼ Introduction
+# =-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+# This script shows HP gauges on enemies as they're selected for targeting or
+# whenever they're damaged. The HP gauges will actually slide downward or
+# upward as the enemies take damage.
+# 
+# Included in v1.01 is the option to require the player having slain an enemy
+# once before enemies of that type will show their HP gauge.
+# 
+#==============================================================================
+# ▼ Instructions
+# =-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+# To install this script, open up your script editor and copy/paste this script
+# to an open slot below ▼ Materials/素材 but above ▼ Main. Remember to save.
+# 
+# -----------------------------------------------------------------------------
+# Enemy Notetags - These notetags go in the enemy notebox in the database.
+# -----------------------------------------------------------------------------
+# <back gauge: x>
+# Changes the colour of the enemy HP back gauge to x where x is the text colour
+# used from the "Window" skin image under Graphics\System.
+# 
+# <hp gauge 1: x>
+# <hp gauge 2: x>
+# Changes the colour of the enemy HP HP gauge to x where x is the text colour
+# used from the "Window" skin image under Graphics\System.
+# 
+# <hide gauge>
+# <show gauge>
+# Hides/shows HP gauge for enemies in battle. These gauges appear whenever the
+# enemy is targeted for battle or whenever the enemy takes HP damage. Note that
+# using the <show gauge> tag will bypass the requirement for needing to defeat
+# an enemy once if that setting is enabled.
+# 
+#==============================================================================
+# ▼ Compatibility
+# =-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+# This script is made strictly for RPG Maker VX Ace. It is highly unlikely that
+# it will run with RPG Maker VX without adjusting.
+# 
+# This script requires Yanfly Engine Ace - Ace Battle Engine v1.00+ and the
+# script must be placed under Ace Battle Engine in the script listing.
+# 
+#==============================================================================
+
+module YEA
+  module BATTLE
+    
+    #=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+    # - Enemy HP Gauges -
+    #=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+    # Adjust the settings for the enemy HP gauges. You can choose to show the
+    # enemy HP gauges by default, the size of the gauge, the colour of the
+    # gauge, and the back colour of the gauge.
+    #=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+    SHOW_ENEMY_HP_GAUGE    = true   # Display Enemy HP Gauge?
+    ANIMATE_HP_GAUGE       = false   # Animate the HP gauge?
+    DEFEAT_ENEMIES_FIRST   = false  # Must defeat enemy first to show HP?
+    ENEMY_GAUGE_WIDTH      = 92    # How wide the enemy gauges are.
+    ENEMY_GAUGE_HEIGHT     = 12     # How tall the enemy gauges are.
+    ENEMY_HP_GAUGE_COLOUR1 = 28     # Colour 1 for HP.
+    ENEMY_HP_GAUGE_COLOUR2 = 29     # Colour 2 for HP.
+    ENEMY_BACKGAUGE_COLOUR = 19     # Gauge Back colour.
+    
+  end # BATTLE
+end # YEA
+
+#==============================================================================
+# ▼ Editting anything past this point may potentially result in causing
+# computer damage, incontinence, explosion of user's head, coma, death, and/or
+# halitosis so edit at your own risk.
+#==============================================================================
+
+if $imported["YEA-BattleEngine"]
+
+module YEA
+  module REGEXP
+  module ENEMY
+    
+    HIDE_GAUGE = /<(?:HIDE_GAUGE|hide gauge)>/i
+    SHOW_GAUGE = /<(?:SHOW_GAUGE|show gauge)>/i
+    
+    BACK_GAUGE = /<(?:BACK_GAUGE|back gauge):[ ]*(\d+)>/i
+    HP_GAUGE_1 = /<(?:HP_GAUGE_1|hp gauge 1):[ ]*(\d+)>/i
+    HP_GAUGE_2 = /<(?:HP_GAUGE_2|hp gauge 2):[ ]*(\d+)>/i
+    
+  end # ENEMY
+  end # REGEXP
+end # YEA
+
+#==============================================================================
+# ■ DataManager
+#==============================================================================
+
+module DataManager
+  
+  #--------------------------------------------------------------------------
+  # alias method: load_database
+  #--------------------------------------------------------------------------
+  class <<self; alias load_database_ehpb load_database; end
+  def self.load_database
+    load_database_ehpb
+    load_notetags_ehpb
+  end
+  
+  #--------------------------------------------------------------------------
+  # new method: load_notetags_ehpb
+  #--------------------------------------------------------------------------
+  def self.load_notetags_ehpb
+    groups = [$data_enemies]
+    for group in groups
+      for obj in group
+        next if obj.nil?
+        obj.load_notetags_ehpb
+      end
+    end
+  end
+  
+end # DataManager
+
+#==============================================================================
+# ■ RPG::Enemy
+#==============================================================================
+
+class RPG::Enemy < RPG::BaseItem
+  
+  #--------------------------------------------------------------------------
+  # public instance variables
+  #--------------------------------------------------------------------------
+  attr_accessor :show_gauge
+  attr_accessor :require_death_show_gauge
+  attr_accessor :back_gauge_colour
+  attr_accessor :hp_gauge_colour1
+  attr_accessor :hp_gauge_colour2
+  
+  #--------------------------------------------------------------------------
+  # common cache: load_notetags_ehpb
+  #--------------------------------------------------------------------------
+  def load_notetags_ehpb
+    @show_gauge = YEA::BATTLE::SHOW_ENEMY_HP_GAUGE
+    @require_death_show_gauge = YEA::BATTLE::DEFEAT_ENEMIES_FIRST
+    @back_gauge_colour = YEA::BATTLE::ENEMY_BACKGAUGE_COLOUR
+    @hp_gauge_colour1 = YEA::BATTLE::ENEMY_HP_GAUGE_COLOUR1
+    @hp_gauge_colour2 = YEA::BATTLE::ENEMY_HP_GAUGE_COLOUR2
+    #---
+    self.note.split(/[\r\n]+/).each { |line|
+      case line
+      #---
+      when YEA::REGEXP::ENEMY::HIDE_GAUGE
+        @show_gauge = false
+      when YEA::REGEXP::ENEMY::SHOW_GAUGE
+        @show_gauge = true
+        @require_death_show_gauge = false
+      when YEA::REGEXP::ENEMY::BACK_GAUGE
+        @back_gauge_colour = [$1.to_i, 31].min
+      when YEA::REGEXP::ENEMY::HP_GAUGE_1
+        @hp_gauge_colour1 = [$1.to_i, 31].min
+      when YEA::REGEXP::ENEMY::HP_GAUGE_2
+        @hp_gauge_colour2 = [$1.to_i, 31].min
+      end
+    } # self.note.split
+    #---
+  end
+  
+end # RPG::Enemy
+
+#==============================================================================
+# ■ Sprite_Battler
+#==============================================================================
+
+class Sprite_Battler < Sprite_Base
+  
+  #--------------------------------------------------------------------------
+  # alias method: initialize
+  #--------------------------------------------------------------------------
+  alias sprite_battler_initialize_ehpb initialize
+  def initialize(viewport, battler = nil)
+    sprite_battler_initialize_ehpb(viewport, battler)
+    create_enemy_gauges
+  end
+  
+  #--------------------------------------------------------------------------
+  # alias method: dispose
+  #--------------------------------------------------------------------------
+  alias sprite_battler_dispose_ehpb dispose
+  def dispose
+    sprite_battler_dispose_ehpb
+    dispose_enemy_gauges
+  end
+  
+  #--------------------------------------------------------------------------
+  # alias method: update
+  #--------------------------------------------------------------------------
+  alias sprite_battler_update_ehpb update
+  def update
+    sprite_battler_update_ehpb
+    update_enemy_gauges
+  end
+  
+  #--------------------------------------------------------------------------
+  # new method: create_enemy_gauges
+  #--------------------------------------------------------------------------
+  def create_enemy_gauges
+    return if @battler.nil?
+    return if @battler.actor?
+    return unless @battler.enemy.show_gauge
+    @back_gauge_viewport = Enemy_HP_Gauge_Viewport.new(@battler, self, :back)
+    @hp_gauge_viewport = Enemy_HP_Gauge_Viewport.new(@battler, self, :hp)
+  end
+  
+  #--------------------------------------------------------------------------
+  # new method: dispose_enemy_gauges
+  #--------------------------------------------------------------------------
+  def dispose_enemy_gauges
+    @back_gauge_viewport.dispose unless @back_gauge_viewport.nil?
+    @hp_gauge_viewport.dispose unless @hp_gauge_viewport.nil?
+  end
+  
+  #--------------------------------------------------------------------------
+  # new method: update_enemy_gauges
+  #--------------------------------------------------------------------------
+  def update_enemy_gauges
+    @back_gauge_viewport.update unless @back_gauge_viewport.nil?
+    @hp_gauge_viewport.update unless @hp_gauge_viewport.nil?
+  end
+  
+  #--------------------------------------------------------------------------
+  # new method: update_enemy_gauge_value
+  #--------------------------------------------------------------------------
+  def update_enemy_gauge_value
+    @back_gauge_viewport.new_hp_updates unless @back_gauge_viewport.nil?
+    @hp_gauge_viewport.new_hp_updates unless @hp_gauge_viewport.nil?
+  end
+  
+end # Sprite_Battler
+
+#==============================================================================
+# ■ Game_BattlerBase
+#==============================================================================
+
+class Game_BattlerBase
+  
+  #--------------------------------------------------------------------------
+  # public instance variables
+  #--------------------------------------------------------------------------
+  attr_accessor :hidden
+  
+  #--------------------------------------------------------------------------
+  # alias method: refresh
+  #--------------------------------------------------------------------------
+  alias game_battlerbase_refresh_ehpb refresh
+  def refresh
+    game_battlerbase_refresh_ehpb
+    return unless SceneManager.scene_is?(Scene_Battle)
+    return if actor?
+    sprite.update_enemy_gauge_value
+  end
+  
+end # Game_BattlerBase
+
+#==============================================================================
+# ■ Game_Battler
+#==============================================================================
+
+class Game_Battler < Game_BattlerBase
+  
+  #--------------------------------------------------------------------------
+  # alias method: die
+  #--------------------------------------------------------------------------
+  alias game_battler_die_ehpb die
+  def die
+    game_battler_die_ehpb
+    return if actor?
+    $game_party.add_defeated_enemy(@enemy_id)
+  end
+  
+  #--------------------------------------------------------------------------
+  # alias method: hp=
+  #--------------------------------------------------------------------------
+  alias game_battlerbase_hpequals_ehpb hp=
+  def hp=(value)
+    game_battlerbase_hpequals_ehpb(value)
+    return unless SceneManager.scene_is?(Scene_Battle)
+    return if actor?
+    return if value == 0
+    sprite.update_enemy_gauge_value
+  end
+  
+end # Game_Battler
+
+#==============================================================================
+# ■ Game_Party
+#==============================================================================
+
+class Game_Party < Game_Unit
+  
+  #--------------------------------------------------------------------------
+  # alias method: init_all_items
+  #--------------------------------------------------------------------------
+  alias game_party_init_all_items_ehpb init_all_items
+  def init_all_items
+    game_party_init_all_items_ehpb
+    @defeated_enemies = []
+  end
+  
+  #--------------------------------------------------------------------------
+  # new method: defeated_enemies
+  #--------------------------------------------------------------------------
+  def defeated_enemies
+    @defeated_enemies = [] if @defeated_enemies.nil?
+    return @defeated_enemies
+  end
+  
+  #--------------------------------------------------------------------------
+  # new method: add_defeated_enemy
+  #--------------------------------------------------------------------------
+  def add_defeated_enemy(id)
+    @defeated_enemies = [] if @defeated_enemies.nil?
+    @defeated_enemies.push(id) unless @defeated_enemies.include?(id)
+  end
+  
+end # Game_Party
+
+#==============================================================================
+# ■ Enemy_HP_Gauge_Viewport
+#==============================================================================
+
+class Enemy_HP_Gauge_Viewport < Viewport
+  
+  #--------------------------------------------------------------------------
+  # initialize
+  #--------------------------------------------------------------------------
+  def initialize(battler, sprite, type)
+    @battler = battler
+    @base_sprite = sprite
+    @type = type
+    dw = YEA::BATTLE::ENEMY_GAUGE_WIDTH
+    dw += 2 if @type == :back
+    @start_width = dw
+    dh = YEA::BATTLE::ENEMY_GAUGE_HEIGHT
+    dh += 2 if @type == :back
+    rect = Rect.new(0, 0, dw, dh)
+    @current_hp = @battler.hp
+    @current_mhp = @battler.mhp
+    @target_gauge_width = target_gauge_width
+    @gauge_rate = 1.0
+    setup_original_hide_gauge
+    super(rect)
+    self.z = 125
+    create_gauge_sprites
+    self.visible = false
+    update_position
+  end
+  
+  #--------------------------------------------------------------------------
+  # dispose
+  #--------------------------------------------------------------------------
+  def dispose
+    @sprite.bitmap.dispose unless @sprite.bitmap.nil?
+    @sprite.dispose
+    super
+  end
+  
+  #--------------------------------------------------------------------------
+  # update
+  #--------------------------------------------------------------------------
+  def update
+    super
+    self.visible = gauge_visible?
+    @sprite.ox += 4 if YEA::BATTLE::ANIMATE_HP_GAUGE
+    update_position
+    update_gauge
+    @visible_counter -= 1
+  end
+  
+  #--------------------------------------------------------------------------
+  # setup_original_hide_gauge
+  #--------------------------------------------------------------------------
+  def setup_original_hide_gauge
+    @original_hide = @battler.enemy.require_death_show_gauge
+    return unless @original_hide
+    if YEA::BATTLE::DEFEAT_ENEMIES_FIRST
+      enemy_id = @battler.enemy_id
+      @original_hide = !$game_party.defeated_enemies.include?(enemy_id)
+    end
+  end
+  
+  #--------------------------------------------------------------------------
+  # create_gauge_sprites
+  #--------------------------------------------------------------------------
+  def create_gauge_sprites
+    @sprite = Plane.new(self)
+    dw = self.rect.width * 2
+    @sprite.bitmap = Bitmap.new(dw, self.rect.height)
+    case @type
+    when :back
+      colour1 = Colour.text_colour(@battler.enemy.back_gauge_colour)
+      colour2 = Colour.text_colour(@battler.enemy.back_gauge_colour)
+    when :hp
+      colour1 = Colour.text_colour(@battler.enemy.hp_gauge_colour1)
+      colour2 = Colour.text_colour(@battler.enemy.hp_gauge_colour2)
+    end
+    dx = 0
+    dy = 0
+    dw = self.rect.width
+    dh = self.rect.height
+    @gauge_width = target_gauge_width
+    @sprite.bitmap.gradient_fill_rect(dx, dy, dw, dh, colour1, colour2)
+    @sprite.bitmap.gradient_fill_rect(dw, dy, dw, dh, colour2, colour1)
+    @visible_counter = 0
+  end
+  
+  #--------------------------------------------------------------------------
+  # update_visible
+  #--------------------------------------------------------------------------
+  def gauge_visible?
+    update_original_hide
+    return false if @original_hide
+    return false if case_original_hide?
+    return true if @visible_counter > 0
+    return true if @gauge_width != @target_gauge_width
+    if SceneManager.scene_is?(Scene_Battle)
+      return false if SceneManager.scene.enemy_window.nil?
+      unless @battler.dead?
+        if SceneManager.scene.enemy_window.active
+          return false if @battler.enemy? && @battler.hidden
+          return true if SceneManager.scene.enemy_window.enemy == @battler
+          return true if SceneManager.scene.enemy_window.select_all?
+          return true if highlight_aoe?
+        end
+      end
+    end
+    return false
+  end
+  
+  #--------------------------------------------------------------------------
+  # highlight_aoe?
+  #--------------------------------------------------------------------------
+  def highlight_aoe?
+    return false unless $imported["YEA-AreaofEffect"]
+    return false if @battler.enemy? && @battler.hidden
+    return SceneManager.scene.enemy_window.hightlight_aoe?(@battler)
+  end
+  
+  #--------------------------------------------------------------------------
+  # new_hp_updates
+  #--------------------------------------------------------------------------
+  def new_hp_updates
+    return if @current_hp == @battler.hp && @current_mhp == @battler.mhp
+    @current_hp = @battler.hp
+    @current_mhp = @battler.mhp
+    return if @gauge_rate == target_gauge_rate
+    @gauge_rate = target_gauge_rate
+    @target_gauge_width = target_gauge_width
+    @visible_counter = 60
+  end
+  
+  #--------------------------------------------------------------------------
+  # case_original_hide?
+  #--------------------------------------------------------------------------
+  def case_original_hide?
+    return false if !@battler.enemy.require_death_show_gauge
+    if YEA::BATTLE::DEFEAT_ENEMIES_FIRST
+      enemy_id = @battler.enemy_id
+      return true unless $game_party.defeated_enemies.include?(enemy_id)
+    end
+    return false
+  end
+  
+  #--------------------------------------------------------------------------
+  # update_original_hide
+  #--------------------------------------------------------------------------
+  def update_original_hide
+    return unless @original_hide
+    return if @battler.dead?
+    enemy_id = @battler.enemy_id
+    @original_hide = false if $game_party.defeated_enemies.include?(enemy_id)
+  end
+  
+  #--------------------------------------------------------------------------
+  # update_position
+  #--------------------------------------------------------------------------
+  def update_position
+    dx = @battler.screen_x - @start_width / 2
+    dy = @battler.screen_y
+    self.rect.x = dx
+    self.rect.y = dy
+    dh = self.rect.height + 1
+    dh += 2 unless @type == :back
+    dy = [@battler.screen_y, Graphics.height - dh - 120].min
+    dy += 1 unless @type == :back
+    self.rect.y = dy
+  end
+  
+  #--------------------------------------------------------------------------
+  # update_gauge
+  #--------------------------------------------------------------------------
+  def update_gauge
+    return if @gauge_width == @target_gauge_width
+    rate = 3
+    @target_gauge_width = target_gauge_width
+    if @gauge_width > @target_gauge_width
+      @gauge_width = [@gauge_width - rate, @target_gauge_width].max
+    elsif @gauge_width < @target_gauge_width
+      @gauge_width = [@gauge_width + rate, @target_gauge_width].min
+    end
+    @visible_counter = @gauge_width == 0 ? 10 : 60
+    return if @type == :back
+    self.rect.width = @gauge_width
+  end
+  
+  #--------------------------------------------------------------------------
+  # target_gauge_rate
+  #--------------------------------------------------------------------------
+  def target_gauge_rate
+    return @current_hp.to_f / @current_mhp.to_f
+  end
+  
+  #--------------------------------------------------------------------------
+  # target_gauge_width
+  #--------------------------------------------------------------------------
+  def target_gauge_width
+    return [@current_hp * @start_width / @current_mhp, @start_width].min
+  end
+  
+end # Enemy_HP_Gauge_Viewport
+
+end # $imported["YEA-BattleEngine"]
+
+#==============================================================================
+# 
+# ▼ End of File
+# 
+#==============================================================================
+
+
+
+
+
+
+Enemy HP Bars Update
+
+
+
+
+#==============================================================================|
+#  ** DoubleX RMVXA Percentage Addon v1.03a to Yanfly Engine Ace - Battle      |
+#     Engine Add-On: Enemy HP Bars                                             |
+#------------------------------------------------------------------------------|
+#  * Changelog                                                                 |
+#    v1.03a(GMT 0200 6-4-2015):                                                |
+#    - Added CRISIS_TEXT_COLOR and KNOCKOUT_TEXT_COLOR                         |
+#    v1.02a(GMT 0300 4-9-2014):                                                |
+#    - Added hp texts x and y offsets relative to respective bars              |
+#    - Added TEXT_COLOR and FIX_LARGE_TEXT                                     |
+#    v1.01a(GMT 1400 21-7-2014):                                               |
+#    - Lets users shows actual hp numbers instead of percentages               |
+#    - Lets users sets the size of the text shown on enemy hp bars             |
+#    v1.00a(GMT 0400 1-7-2014):                                                |
+#    - 1st version of this script finished                                     |
+#------------------------------------------------------------------------------|
+#  * Author                                                                    |
+#    DoubleX:                                                                  |
+#    - This script                                                             |
+#    Yanfly:                                                                   |
+#    - Yanfly Engine Ace - Battle Engine Add-On: Enemy HP Bars                 |
+#------------------------------------------------------------------------------|
+#  * Terms of use                                                              |
+#    Same as that of Yanfly Engine Ace - Battle Engine Add-On: Enemy HP Bars   |
+#    except that you're not allowed to give DoubleX or his alias credit        |
+#------------------------------------------------------------------------------|
+#  * Prerequisites                                                             |
+#    Scripts:                                                                  |
+#    - Yanfly Engine Ace - Battle Engine Add-On: Enemy HP Bars                 |
+#    Knowledge:                                                                |
+#    - That of using the script                                                |
+#    Yanfly Engine Ace - Battle Engine Add-On: Enemy HP Bars                   |
+#------------------------------------------------------------------------------|
+#  * Functions                                                                 |
+#    - Displays the current percentage of the hp bar filled                    |
+#------------------------------------------------------------------------------|
+#  * Manual                                                                    |
+#    To use this script, open the script editor and put this script into an    |
+#    open slot between the script                                              |
+#    Yanfly Engine Ace - Battle Engine Add-On: Enemy HP Bars and ▼ Main.       |
+#    Save to take effect.                                                      |
+#------------------------------------------------------------------------------|
+#  * Compatibility                                                             |
+#    - Same as that of Yanfly Engine Ace - Battle Engine Add-On: Enemy HP Bars |
+#==============================================================================|
+
+($imported ||= {})["DoubleX RMVXA Percentage Addon to YEA-EnemyHPBars"] = true
+
+#==============================================================================|
+#  ** You only need to edit this part as it's about what this script does      |
+#------------------------------------------------------------------------------|
+
+module DoubleX_RMVXA
+  module YEA_EnemyHPBars_Percentage_Addon
+
+    # (v1.01a+)ACTUAL_NUMBER, default = false
+    # Shows the actual hp numbers instead of the percentages
+    ACTUAL_NUMBER = true
+
+    # (v1.01a+)TEXT_SIZE, default = YEA::BATTLE::ENEMY_GAUGE_HEIGHT
+    # Sets the size of the text shown on enemy hp bars as TEXT_SIZE
+    TEXT_SIZE = 21
+
+    # (v1.03a+)CRISIS_TEXT_COLOR, default = 17
+    # Sets the text color of the text shown on enemy hp bars with hp crisis as
+    # CRISIS_TEXT_COLOR
+    CRISIS_TEXT_COLOR = 0
+
+    # (v1.03a+)KNOCKOUT_TEXT_COLOR, default = 17
+    # Sets the text color of the text shown on enemy hp bars with 0 hp as
+    # KNOCKOUT_TEXT_COLOR
+    KNOCKOUT_TEXT_COLOR = 18
+
+    # (v1.02a+)TEXT_COLOR, default = 16
+    # Sets the text color of the text shown on enemy hp bars as TEXT_COLOR
+    TEXT_COLOR = 0
+
+    # (v1.02a+)FIX_LARGE_TEXT, default = false
+    # Fixes issues when TEXT_SIZE is much larger than ENEMY_GAUGE_HEIGHT
+    FIX_LARGE_TEXT = true
+
+    # (v1.02a+)TEXT_X_OFFSET, TEXT_Y_OFFSET, default = 0, 0
+    # Sets the x and y offsets of the hp text relative to the hp bar
+    TEXT_X_OFFSET = 5
+    TEXT_Y_OFFSET = 0
+
+  end # YEA_EnemyHPBars_Percentage_Addon
+end # DoubleX_RMVXA
+
+#==============================================================================|
+
+#==============================================================================|
+#  ** You need not edit this part as it's about how this script works          |
+#------------------------------------------------------------------------------|
+
+if $imported["YEA-BattleEngine"] && $imported["YEA-EnemyHPBars"]
+
+#------------------------------------------------------------------------------|
+
+class Sprite_Battler < Sprite_Base
+
+  #----------------------------------------------------------------------------|
+  #  Alias method: create_enemy_gauges                                         |
+  #----------------------------------------------------------------------------|
+  alias create_enemy_gauges_percentage_addon create_enemy_gauges
+  def create_enemy_gauges
+    create_enemy_gauges_percentage_addon
+    # Added to create the percentage text
+    return unless @battler && !@battler.actor? && @battler.enemy.show_gauge
+    @percent_gauge_viewport = Enemy_HP_Gauge_Viewport.new(@battler, self, 
+    :percent)
+    #
+  end # create_enemy_gauges
+
+  #----------------------------------------------------------------------------|
+  #  Alias method: dispose_enemy_gauges                                        |
+  #----------------------------------------------------------------------------|
+  alias dispose_enemy_gauges_percentage_addon dispose_enemy_gauges
+  def dispose_enemy_gauges
+    dispose_enemy_gauges_percentage_addon
+    # Added to dispose the percentage text
+    @percent_gauge_viewport.dispose if @percent_gauge_viewport
+    #
+  end # dispose_enemy_gauges
+
+  #----------------------------------------------------------------------------|
+  #  Alias method: update_enemy_gauges                                         |
+  #----------------------------------------------------------------------------|
+  alias update_enemy_gauges_percentage_addon update_enemy_gauges
+  def update_enemy_gauges
+    update_enemy_gauges_percentage_addon
+    # Added to update the percentage text
+    @percent_gauge_viewport.update if @percent_gauge_viewport
+    #
+  end # update_enemy_gauges
+
+  #----------------------------------------------------------------------------|
+  #  Alias method: update_enemy_gauge_value                                    |
+  #----------------------------------------------------------------------------|
+  alias update_enemy_gauge_value_percentage_addon update_enemy_gauge_value
+  def update_enemy_gauge_value
+    update_enemy_gauge_value_percentage_addon
+    # Added to update the percentage text
+    @percent_gauge_viewport.new_hp_updates if @percent_gauge_viewport
+    #
+  end # update_enemy_gauge_value
+
+end # Sprite_Battler
+
+class Enemy_HP_Gauge_Viewport < Viewport
+
+  include DoubleX_RMVXA::YEA_EnemyHPBars_Percentage_Addon
+  #----------------------------------------------------------------------------|
+  #  Rewrite method: initialize                                                |
+  #----------------------------------------------------------------------------|
+  def initialize(battler, sprite, type)
+    @battler = battler
+    @base_sprite = sprite
+    @type = type
+    dw = YEA::BATTLE::ENEMY_GAUGE_WIDTH
+    # Rewritten to setup the percentage text
+    if @type == :percent && FIX_LARGE_TEXT
+      dh = [TEXT_SIZE, YEA::BATTLE::ENEMY_GAUGE_HEIGHT].max
+    else
+      dh = YEA::BATTLE::ENEMY_GAUGE_HEIGHT
+    end
+    if @type != :hp
+      dw += 2 
+      dh += 2
+    end
+    #
+    @start_width = dw
+    rect = Rect.new(0, 0, dw, dh)
+    @current_hp = @battler.hp
+    @current_mhp = @battler.mhp
+    @target_gauge_width = target_gauge_width
+    @gauge_rate = 1.0
+    setup_original_hide_gauge
+    super(rect)
+    self.z = 125
+    create_gauge_sprites
+    self.visible = false
+    update_position
+    self.rect.width = @gauge_width if @type == :hp
+  end # initialize
+
+  #----------------------------------------------------------------------------|
+  #  Rewrite method: create_gauge_sprites                                      |
+  #----------------------------------------------------------------------------|
+  def create_gauge_sprites
+    @sprite = Plane.new(self)
+    @sprite.bitmap = Bitmap.new(rect.width * 4, rect.height)
+    enemy = @battler.enemy
+    if @type == :back
+      colour = Colour.text_colour(enemy.back_gauge_colour)
+      colour1 = colour2 = colour
+    elsif @type == :hp
+      colour1 = Colour.text_colour(enemy.hp_gauge_colour1)
+      colour2 = Colour.text_colour(enemy.hp_gauge_colour2)
+    # Added to create the percentage text
+    elsif @type == :percent
+      colour1 = colour2 = Color.new(0, 0, 0, 0)
+    end
+    #
+    dw = rect.width
+    dh = rect.height
+    @gauge_width = target_gauge_width
+    @sprite.bitmap.gradient_fill_rect(0, 0, dw, dh, colour1, colour2)
+    @sprite.bitmap.gradient_fill_rect(dw, 0, dw, dh, colour2, colour1)
+    @visible_counter = 0
+  end # create_gauge_sprites
+
+  #----------------------------------------------------------------------------|
+  #  Rewrite method: update_position                                           |
+  #----------------------------------------------------------------------------|
+  def update_position
+    dx = @battler.screen_x
+    dy = @battler.screen_y
+    # Added to update the positions only if the battler positions change
+    @update_position = false
+    return if @last_x == dx && @last_y == dy
+    @last_x = dx
+    @last_y = dy
+    @update_position = true
+    #
+    dx -= @start_width / 2
+    # Added to set the x and y offset of percentage text
+    if @type == :percent
+      dx += TEXT_X_OFFSET
+      dy += TEXT_Y_OFFSET
+    end
+    #
+    rect.x = dx
+    rect.y = dy
+    dh = rect.height + 1
+    # Rewritten to ensure the percentage text won't overlap with the status
+    # window
+    dh += 2 if @type == :hp
+    dy = [dy, Graphics.height - dh - 120].min
+    dy += 1 if @type == :hp
+    #
+    rect.y = dy
+  end # update_position
+
+  #----------------------------------------------------------------------------|
+  #  Rewrite method: update_gauge                                              |
+  #----------------------------------------------------------------------------|
+  def update_gauge
+    return if @gauge_width == @target_gauge_width
+    rate = 3
+    @target_gauge_width = target_gauge_width
+    if @gauge_width > @target_gauge_width
+      @gauge_width = [@gauge_width - rate, @target_gauge_width].max
+    elsif @gauge_width < @target_gauge_width
+      @gauge_width = [@gauge_width + rate, @target_gauge_width].min
+    end
+    @visible_counter = @gauge_width == 0 ? 10 : 60
+    rect.width = @gauge_width if @type == :hp
+  end # update_gauge
+
+  #----------------------------------------------------------------------------|
+  #  (v1.02a+)Alias method: dispose                                            |
+  #----------------------------------------------------------------------------|
+  alias dispose_percentage_addon dispose
+  def dispose
+    # Rewritten to dispose sprite only if it's not disposed
+    dispose_percentage_addon unless @sprite.disposed?
+    #
+  end # dispose
+
+  #----------------------------------------------------------------------------|
+  #  Alias method: update                                                      |
+  #----------------------------------------------------------------------------|
+  alias update_percentage_addon update
+  def update
+    update_percentage_addon
+    # Added to draw the percentage text
+    return if @type != :percent
+    @sprite.ox -= 4 if YEA::BATTLE::ANIMATE_HP_GAUGE
+    update_percentage
+    #
+  end # update
+
+  #----------------------------------------------------------------------------|
+  #  New method: set_percentage_font                                           |
+  #----------------------------------------------------------------------------|
+  def set_percentage_font
+    crisis_percent = $imported["YEA-CoreEngine"] ? YEA::CORE::HP_CRISIS : 0.25
+    if @current_hp <= 0
+      n = KNOCKOUT_TEXT_COLOR
+    elsif @current_hp < @current_mhp * crisis_percent
+      n = CRISIS_TEXT_COLOR
+    else
+      n = TEXT_COLOR
+    end
+    @sprite.bitmap.font.color = Cache.system("Window").get_pixel(
+    64 + (n % 8) * 8, 96 + (n / 8) * 8)
+    @sprite.bitmap.font.size = TEXT_SIZE
+  end # set_percentage_font
+
+  #----------------------------------------------------------------------------|
+  #  New method: update_percentage                                             |
+  #----------------------------------------------------------------------------|
+  def update_percentage
+    return if @last_hp == @current_hp
+    @last_hp = @current_hp
+    set_percentage_font
+    if ACTUAL_NUMBER
+      percent = @current_hp.to_i.to_s
+    else
+      percent = "#{(target_gauge_rate * 100).to_i.to_s}%"
+    end
+    dw = @sprite.bitmap.text_size(percent).width
+    @sprite.bitmap.clear
+    @sprite.bitmap.draw_text(YEA::BATTLE::ENEMY_GAUGE_WIDTH + 2 - dw, 1, dw, 
+    @sprite.bitmap.text_size(percent).height, percent)
+  end # update_percentage
+
+end # Enemy_HP_Gauge_Viewport
+
+#------------------------------------------------------------------------------|
+
+end # if $imported["YEA-BattleEngine"] && $imported["YEA-EnemyHPBars"]
+
+#==============================================================================|
